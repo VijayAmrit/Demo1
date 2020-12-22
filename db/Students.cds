@@ -25,7 +25,7 @@ annotate Students with @(
                 Value: last_name,
             },
             {
-                Label: 'Date Join',
+                Label: 'Date of Join',
                 Value: date_sign_up,
             }
         ]
